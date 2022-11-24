@@ -1,2 +1,2 @@
 # ReactNativeChangeIconDynamically IOS
-![](https://github.com/nunofernandesiit/ReactNativeChangeIconDynamically/blob/master/ezgif.com-gif-maker.gif)
+![](https://github.com/nunofernandes08/ReactNativeChangeIconDynamically/blob/master/ezgif.com-gif-maker.gif)
