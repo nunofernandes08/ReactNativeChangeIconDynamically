@@ -10,6 +10,14 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		35923AA8292F97EA00077805 /* us@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 35923AA0292F97E900077805 /* us@3x.png */; };
+		35923AA9292F97EA00077805 /* us@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 35923AA1292F97E900077805 /* us@2x.png */; };
+		35923AAA292F97EA00077805 /* uk@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 35923AA2292F97E900077805 /* uk@3x.png */; };
+		35923AAB292F97EA00077805 /* uk@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 35923AA3292F97E900077805 /* uk@2x.png */; };
+		35923AAC292F97EA00077805 /* france@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 35923AA4292F97EA00077805 /* france@2x.png */; };
+		35923AAD292F97EA00077805 /* france@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 35923AA5292F97EA00077805 /* france@3x.png */; };
+		35923AAE292F97EA00077805 /* portugal@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 35923AA6292F97EA00077805 /* portugal@2x.png */; };
+		35923AAF292F97EA00077805 /* portugal@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 35923AA7292F97EA00077805 /* portugal@3x.png */; };
 		3E461D99554A48A4959DE609 /* SplashScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA286B85B6C04FC6940260E9 /* SplashScreen.storyboard */; };
 		96905EF65AED1B983A6B3ABC /* libPods-ChangeIconApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 58EEBF8E8E6FB1BC6CAF49B5 /* libPods-ChangeIconApp.a */; };
 		B18059E884C0ABDD17F3DC3D /* ExpoModulesProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAC715A2D49A985799AEE119 /* ExpoModulesProvider.swift */; };
@@ -24,6 +32,14 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = ChangeIconApp/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = ChangeIconApp/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = ChangeIconApp/main.m; sourceTree = "<group>"; };
+		35923AA0292F97E900077805 /* us@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "us@3x.png"; path = "../../../../../../../Downloads/ios/us@3x.png"; sourceTree = "<group>"; };
+		35923AA1292F97E900077805 /* us@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "us@2x.png"; path = "../../../../../../../Downloads/ios/us@2x.png"; sourceTree = "<group>"; };
+		35923AA2292F97E900077805 /* uk@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "uk@3x.png"; path = "../../../../../../../Downloads/ios/uk@3x.png"; sourceTree = "<group>"; };
+		35923AA3292F97E900077805 /* uk@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "uk@2x.png"; path = "../../../../../../../Downloads/ios/uk@2x.png"; sourceTree = "<group>"; };
+		35923AA4292F97EA00077805 /* france@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "france@2x.png"; path = "../../../../../../../Downloads/ios/france@2x.png"; sourceTree = "<group>"; };
+		35923AA5292F97EA00077805 /* france@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "france@3x.png"; path = "../../../../../../../Downloads/ios/france@3x.png"; sourceTree = "<group>"; };
+		35923AA6292F97EA00077805 /* portugal@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "portugal@2x.png"; path = "../../../../../../../Downloads/ios/portugal@2x.png"; sourceTree = "<group>"; };
+		35923AA7292F97EA00077805 /* portugal@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "portugal@3x.png"; path = "../../../../../../../Downloads/ios/portugal@3x.png"; sourceTree = "<group>"; };
 		58EEBF8E8E6FB1BC6CAF49B5 /* libPods-ChangeIconApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ChangeIconApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6C2E3173556A471DD304B334 /* Pods-ChangeIconApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ChangeIconApp.debug.xcconfig"; path = "Target Support Files/Pods-ChangeIconApp/Pods-ChangeIconApp.debug.xcconfig"; sourceTree = "<group>"; };
 		7A4D352CD337FB3A3BF06240 /* Pods-ChangeIconApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ChangeIconApp.release.xcconfig"; path = "Target Support Files/Pods-ChangeIconApp/Pods-ChangeIconApp.release.xcconfig"; sourceTree = "<group>"; };
@@ -48,6 +64,7 @@
 		13B07FAE1A68108700A75B9A /* ChangeIconApp */ = {
 			isa = PBXGroup;
 			children = (
+				35923A83292F913700077805 /* AppIcons */,
 				BB2F792B24A3F905000567C9 /* Supporting */,
 				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
@@ -67,6 +84,21 @@
 				58EEBF8E8E6FB1BC6CAF49B5 /* libPods-ChangeIconApp.a */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		35923A83292F913700077805 /* AppIcons */ = {
+			isa = PBXGroup;
+			children = (
+				35923AA4292F97EA00077805 /* france@2x.png */,
+				35923AA5292F97EA00077805 /* france@3x.png */,
+				35923AA6292F97EA00077805 /* portugal@2x.png */,
+				35923AA7292F97EA00077805 /* portugal@3x.png */,
+				35923AA3292F97E900077805 /* uk@2x.png */,
+				35923AA2292F97E900077805 /* uk@3x.png */,
+				35923AA1292F97E900077805 /* us@2x.png */,
+				35923AA0292F97E900077805 /* us@3x.png */,
+			);
+			path = AppIcons;
 			sourceTree = "<group>";
 		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
@@ -163,7 +195,7 @@
 		83CBB9F71A601CBA00E9B192 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 1130;
+				LastUpgradeCheck = 1340;
 				TargetAttributes = {
 					13B07F861A680F5B00A75B9A = {
 						LastSwiftMigration = 1250;
@@ -193,9 +225,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				35923AAF292F97EA00077805 /* portugal@3x.png in Resources */,
 				BB2F792D24A3F905000567C9 /* Expo.plist in Resources */,
+				35923AAC292F97EA00077805 /* france@2x.png in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				3E461D99554A48A4959DE609 /* SplashScreen.storyboard in Resources */,
+				35923AAB292F97EA00077805 /* uk@2x.png in Resources */,
+				35923AAD292F97EA00077805 /* france@3x.png in Resources */,
+				35923AAA292F97EA00077805 /* uk@3x.png in Resources */,
+				35923AA9292F97EA00077805 /* us@2x.png in Resources */,
+				35923AAE292F97EA00077805 /* portugal@2x.png in Resources */,
+				35923AA8292F97EA00077805 /* us@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -368,6 +408,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -425,6 +466,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -448,6 +490,7 @@
 				LIBRARY_SEARCH_PATHS = "\"$(inherited)\"";
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;

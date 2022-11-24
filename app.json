@@ -1,11 +1,15 @@
 {
-  "expo": {
+    "expo": {
+        "name": "ChangeIconApp",
+        "slug": "ChangeIconApp",
+        "version": "1.0.0",
+        "assetBundlePatterns": ["**/*"]
+    },
     "name": "ChangeIconApp",
-    "slug": "ChangeIconApp",
-    "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
+    "plugins": [
+        "@config-plugins/react-native-dynamic-app-icon",
+        [
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png"
+        ]
     ]
-  },
-  "name": "ChangeIconApp"
 }

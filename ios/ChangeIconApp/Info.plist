@@ -49,7 +49,56 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
-  <key>UIStatusBarStyle</key>
-  <string>UIStatusBarStyleDefault</string>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleDefault</string>
+	<key>CFBundleIcons</key>
+	<dict>
+	  <key>CFBundleAlternateIcons</key>
+	  <dict>
+		<key>portugal</key>
+  		<dict>
+	        <key>CFBundleIconFiles</key>
+	        <array>
+	          <string>portugal</string>
+	        </array>
+	        <key>UIPrerenderedIcon</key>
+	        <false/>
+		</dict>
+		<key>france</key>
+  		<dict>
+	        <key>CFBundleIconFiles</key>
+	        <array>
+	          <string>france</string>
+	        </array>
+	        <key>UIPrerenderedIcon</key>
+	        <false/>
+		</dict>
+		<key>uk</key>
+  		<dict>
+	        <key>CFBundleIconFiles</key>
+	        <array>
+	          <string>uk</string>
+	        </array>
+	        <key>UIPrerenderedIcon</key>
+	        <false/>
+		</dict>
+		<key>us</key>
+  		<dict>
+	        <key>CFBundleIconFiles</key>
+	        <array>
+	          <string>us</string>
+	        </array>
+	        <key>UIPrerenderedIcon</key>
+	        <false/>
+		</dict>
+	    <key>CFBundlePrimaryIcon</key>
+	    <dict>
+	      <key>CFBundleIconFiles</key>
+	      <array>
+	        <string>portugal</string>
+	      </array>
+	    </dict>
+	  </dict>
+	</dict>
 </dict>
 </plist>
